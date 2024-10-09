@@ -15,7 +15,7 @@ DiceGameP est un jeu de dés multijoueur en ligne. Ce projet a été réalisé d
 2. **Score temporaire (COUNT)** : Chaque joueur possède un score temporaire qui s'accumule à chaque lancer de dé.
 3. **Score global (GLOBAL)** : Le score temporaire peut être "transféré" dans le score global.
 4. **Lancer de dé** : Les joueurs peuvent lancer le dé pour ajouter le résultat à leur score ROUND.
-5. **Action "Hold"** : Les joueurs peuvent choisir de "Hold" pour ajouter leur score ROUND au score GLOBAL.
+5. **Action "Hold"** : Les joueurs peuvent choisir de "Hold" pour ajouter leur score ROUND au score GLOBAL. Il ne faut pas tomber sur le 1 sinon cela met fin au tours du joueur actuel et réinitialise son décompte.
 6. **Victoire** : Le premier joueur à atteindre **100 points** dans son score GLOBAL gagne la partie.
 
 ---
