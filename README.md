@@ -48,5 +48,3 @@ DiceGameP est un jeu de dés multijoueur en ligne. Ce projet a été réalisé d
 - **Framework CSS** : Utilisation d’un framework pour garantir une interface utilisateur agréable et responsive.
 - **Déploiement en ligne** : Le jeu est accessible en ligne pour une expérience fluide.
 
-
-- [@baylox](https://www.github.com/baylox)
